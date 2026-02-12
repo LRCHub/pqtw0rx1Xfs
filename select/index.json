@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Weee Like It!!!",
+  "base_artist": "NONA REEVES",
+  "createdAt": "2026-02-12T10:28:57.324964Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Weee Like It!!!",
+      "artist": "NONA REEVES",
+      "has_synced": true,
+      "path": "select/01_Weee_Like_It!!!_NONA_REEVES.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Weee Like It!!!",
+      "artist": "Nona Reeves",
+      "has_synced": false,
+      "path": "select/pl_01_Weee_Like_It!!!_Nona_Reeves.txt"
+    }
+  ]
+}

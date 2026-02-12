@@ -1,0 +1,55 @@
+# NONA REEVES – Weee Like It!!!
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:32.52] 一寸法師みたいに ちっちゃな棘が
+[00:36.92] なんとなくブルーで (ブルーで)
+[00:38.98] 痛ぇーな (痛ぇーな)
+[00:40.27] って気分にさせんだ
+[00:44.77] 
+[00:42.84] 三つ子の魂 百までか
+[00:47.26] もう一度 Wake Up! (Wake Up!)
+[00:49.35] Shape Up! (Shape Up!)
+[00:50.84] 始めるかい?
+[00:53.84] 
+[00:54.20] Woo I like it
+[00:58.26] 約束したあの場所で -Place to go-
+[01:04.42] Do you like it?
+[01:08.27] 君と待ち合わせたいんだ Today
+[01:16.77] 
+[01:14.53] "MUSIC, Weee Like It!!! MUSIC, Weee Like It!!!"
+[01:19.58] 誰かの声が 聴こえたら
+[01:24.71] "MUSIC, Weee Like It!!! MUSIC, Weee Like It!!!"
+[01:29.94] 空まで叫ぼう こころから、もう一度
+[01:38.44] 
+[01:46.22] Woo I like it
+[01:50.41] 好きなものを、好きなだけ -Boys to men-
+[01:56.56] Do you like it?
+[02:04.06] 
+[02:00.86] 「少年易老學難成」って、今更ジーンっと来た!
+[02:11.86] 
+[02:09.25] "MUSIC, Weee Like It!!! MUSIC, Weee Like It!!!"
+[02:14.31] 誰かの声が 聴こえたら
+[02:19.57] "MUSIC, Weee Like It!!! MUSIC, Weee Like It!!!"
+[02:24.82] 空まで叫ぼう こころから
+[02:30.82] 
+[02:30.59] ベイビー・ラヴ
+[02:31.93] 人は自分で生まれ変われんだ おいで!
+[02:37.82] She knows, She knows, She knows, She knows that
+[02:41.07] ベイビー・ラヴ
+[02:42.59] 昨日までの歪んだ安定には、シャローム!
+[02:52.09] 
+[02:58.80] "MUSIC, Weee Like It!!! MUSIC, Weee Like It!!!"
+[03:03.91] 誰かの声が 聴こえたら
+[03:09.12] "MUSIC, Weee Like It!!! MUSIC, Weee Like It!!!"
+[03:14.22] 空まで叫ぼう こころから
+[03:19.60] いつまでも 終わらない ものなどないと知ったから
+[03:30.09] いつか来る さよならも
+[03:35.16] 愛せるほどに 君と駆け抜けよう
+[03:41.06] Please tell me, Please tell me,
+[03:45.14] Do You Like It? I Like It.
+[03:47.71] Do You Like It? Weee Like it!!!
+[03:51.47] Please tell me, Please tell me,
+[03:55.61] Do You Like It? I Like It. Weee Like It!!! Hey!
+```
